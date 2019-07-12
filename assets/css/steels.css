@@ -1,0 +1,274 @@
+
+
+				/*NAV*/
+
+.forum_menus {
+	margin-top: 60px;
+    margin-bottom: 60px;
+      
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
+
+}
+
+.forum_menus_ul {
+
+	display:flex;
+	color:red;
+
+}
+
+.main_menus {
+
+
+	 font-size: 1.8em;
+	 color:red;
+    padding-bottom: 3px;
+    text-decoration: none;
+
+}
+
+nav ul {
+	
+}
+
+
+nav li {
+	margin-right:70px;
+
+
+}
+				/* END NAV */
+
+
+.title {
+	color:red;
+	:red;
+}
+
+
+					/*style CSS inscription */
+.pseudo_register{
+	-moz-transition: background-color 0.25s ease-in-out;
+		-webkit-transition: background-color 0.25s ease-in-out;
+		-ms-transition: background-color 0.25s ease-in-out;
+		transition: background-color 0.25s ease-in-out;
+		-webkit-appearance: none;
+		display: block;
+		border: 0;
+		background: #e8e8e8;
+		width: 50%;
+		box-shadow: inset 2px 2px 0px 0px rgba(0, 0, 0, 0.1);
+		border-radius: 4px;
+		line-height: 1.25em;
+		padding: 0.75em 1em 0.75em 1em;
+		margin-bottom: 10px;
+
+}
+
+.mail_register{
+	-moz-transition: background-color 0.25s ease-in-out;
+		-webkit-transition: background-color 0.25s ease-in-out;
+		-ms-transition: background-color 0.25s ease-in-out;
+		transition: background-color 0.25s ease-in-out;
+		-webkit-appearance: none;
+		display: block;
+		border: 0;
+		background: #e8e8e8;
+		width: 50%;
+		box-shadow: inset 2px 2px 0px 0px rgba(0, 0, 0, 0.1);
+		border-radius: 4px;
+		line-height: 1.25em;
+		padding: 0.75em 1em 0.75em 1em;
+		margin-bottom: 10px;
+
+}
+
+
+.confirmation_register{
+	-moz-transition: background-color 0.25s ease-in-out;
+		-webkit-transition: background-color 0.25s ease-in-out;
+		-ms-transition: background-color 0.25s ease-in-out;
+		transition: background-color 0.25s ease-in-out;
+		-webkit-appearance: none;
+		display: block;
+		border: 0;
+		background: #e8e8e8;
+		width: 50%;
+		box-shadow: inset 2px 2px 0px 0px rgba(0, 0, 0, 0.1);
+		border-radius: 4px;
+		line-height: 1.25em;
+		padding: 0.75em 1em 0.75em 1em;
+		margin-bottom: 10px;
+}
+
+.password_register{
+	-moz-transition: background-color 0.25s ease-in-out;
+		-webkit-transition: background-color 0.25s ease-in-out;
+		-ms-transition: background-color 0.25s ease-in-out;
+		transition: background-color 0.25s ease-in-out;
+		-webkit-appearance: none;
+		display: block;
+		border: 0;
+		background: #e8e8e8;
+		width: 50%;
+		box-shadow: inset 2px 2px 0px 0px rgba(0, 0, 0, 0.1);
+		border-radius: 4px;
+		line-height: 1.25em;
+		padding: 0.75em 1em 0.75em 1em;
+		margin-bottom: 10px;
+
+}
+
+.password_confirmation_register{
+	-moz-transition: background-color 0.25s ease-in-out;
+		-webkit-transition: background-color 0.25s ease-in-out;
+		-ms-transition: background-color 0.25s ease-in-out;
+		transition: background-color 0.25s ease-in-out;
+		-webkit-appearance: none;
+		display: block;
+		border: 0;
+		background: #e8e8e8;
+		width: 50%;
+		box-shadow: inset 2px 2px 0px 0px rgba(0, 0, 0, 0.1);
+		border-radius: 4px;
+		line-height: 1.25em;
+		padding: 0.75em 1em 0.75em 1em;
+		margin-bottom: 20px;
+
+}
+
+
+.button_registering {
+		-moz-transition: all 0.25s ease-in-out;
+		-webkit-transition: all 0.25s ease-in-out;
+		-ms-transition: all 0.25s ease-in-out;
+		transition: all 0.25s ease-in-out;
+		-webkit-appearance: none;
+		position: relative;
+		display: inline-block;
+		background: #ed786a;
+		color: #fff !important;
+		text-transform: uppercase;
+		border-radius: 4px;
+		border: 0;
+		outline: 0;
+		font-size: 1em;
+		box-shadow: 0.125em 0.175em 0 0 rgba(0, 0, 0, 0.125);
+		font-weight: 600;
+		text-align: center;
+		font-size: 0.85em;
+		letter-spacing: 2px;
+		padding: 0.85em 2.75em 0.85em 2.75em;
+		margin-bottom: 10px;
+	}
+
+/* textarea, select {
+    font-family: 'Source Sans Pro';
+    font-weight: 300;
+    color: #777;
+    line-height: 1.65em;
+    font-size: 15pt;
+}*/
+
+/*form textarea {
+		
+	}
+
+		form input[type="text"]:focus,
+		form input[type="email"]:focus,
+		form input[type="password"]:focus,
+		form select:focus,
+		form textarea:focus {
+			background: #f0f0f0;
+		}
+*/
+					/*End style CSS register */
+
+
+
+					/* style CSS connexion */
+
+.connexion_title {
+	 font-family: 'Source Sans Pro';
+    font-weight: 300;
+    color: #777;
+    line-height: 1.65em;
+    font-size: 15pt;
+    text-align:center;
+    width: 100%;
+	}
+
+.input_mail_connexion {
+		margin-right: auto;
+    	margin-left: auto;
+		text-align:center;
+		-moz-transition: background-color 0.25s ease-in-out;
+		-webkit-transition: background-color 0.25s ease-in-out;
+		-ms-transition: background-color 0.25s ease-in-out;
+		transition: background-color 0.25s ease-in-out;
+		-webkit-appearance: none;
+		display: block;
+		border: 0;
+		background: #e8e8e8;
+		width: 50%;
+		box-shadow: inset 2px 2px 0px 0px rgba(0, 0, 0, 0.1);
+		border-radius: 4px;
+		line-height: 1.25em;
+		padding: 0.75em 1em 0.75em 1em;
+		margin-bottom: 10px;
+
+			}
+
+	.input_password_connexion {
+		margin-right: auto;
+    	margin-left: auto;
+		text-align:center;
+		-moz-transition: background-color 0.25s ease-in-out;
+		-webkit-transition: background-color 0.25s ease-in-out;
+		-ms-transition: background-color 0.25s ease-in-out;
+		transition: background-color 0.25s ease-in-out;
+		-webkit-appearance: none;
+		display: block;
+		border: 0;
+		background: #e8e8e8;
+		width: 50%;
+		box-shadow: inset 2px 2px 0px 0px rgba(0, 0, 0, 0.1);
+		border-radius: 4px;
+		line-height: 1.25em;
+		padding: 0.75em 1em 0.75em 1em;
+		margin-bottom: 10px;
+
+	}
+
+	.button_login {
+		
+	    margin-left: 700px;
+		transition: all 0.25s ease-in-out;
+	    -webkit-appearance: none;
+	    position: relative;
+	    display: inline-block;
+	    background: #ed786a;
+	    color: #fff !important;
+	    text-transform: uppercase;
+	    border-radius: 4px;
+	    border: 0;
+	    outline: 0;
+	    font-size: 1em;
+	    box-shadow: 0.125em 0.175em 0 0 rgba(0, 0, 0, 0.125);
+	    font-weight: 600;
+	    text-align: center;
+	    font-size: 0.85em;
+	    letter-spacing: 2px;
+	    padding: 0.85em 2.75em 0.85em 2.75em;
+	    margin-bottom: 10px;
+}
+
+
+					/* End style CSS connexion */
+
