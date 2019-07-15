@@ -1,1 +1,1 @@
-# Sharing-of-parties
+New concept to share and to try differents parties 
